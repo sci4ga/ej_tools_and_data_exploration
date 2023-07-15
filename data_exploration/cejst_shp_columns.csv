@@ -1,0 +1,124 @@
+shapefile_column,column_name,column_description
+SF,State/Territory,State/Territory
+CF,County Name,County Name
+DF_PFS,Diagnosed diabetes among adults aged greater than or equal to 18 years (percentile),Diagnosed diabetes among adults aged greater than or equal to 18 years (percentile)
+AF_PFS,Current asthma among adults aged greater than or equal to 18 years (percentile),Current asthma among adults aged greater than or equal to 18 years (percentile)
+HDF_PFS,Coronary heart disease among adults aged greater than or equal to 18 years (percentile),Coronary heart disease among adults aged greater than or equal to 18 years (percentile)
+DSF_PFS,Diesel particulate matter exposure (percentile),Diesel particulate matter exposure (percentile)
+EBF_PFS,Energy burden (percentile),Energy burden (percentile)
+EALR_PFS,Expected agricultural loss rate (Natural Hazards Risk Index) (percentile),Expected agricultural loss rate (Natural Hazards Risk Index) (percentile)
+EBLR_PFS,Expected building loss rate (Natural Hazards Risk Index) (percentile),Expected building loss rate (Natural Hazards Risk Index) (percentile)
+EPLR_PFS,Expected population loss rate (Natural Hazards Risk Index) (percentile),Expected population loss rate (Natural Hazards Risk Index) (percentile)
+HBF_PFS,Housing burden (percent) (percentile),Housing burden (percent) (percentile)
+LLEF_PFS,Low life expectancy (percentile),Low life expectancy (percentile)
+LIF_PFS,Linguistic isolation (percent) (percentile),Linguistic isolation (percent) (percentile)
+LMI_PFS,Low median household income as a percent of area median income (percentile),Low median household income as a percent of area median income (percentile)
+PM25F_PFS,PM2.5 in the air (percentile),PM2.5 in the air (percentile)
+HSEF,Percent individuals age 25 or over with less than high school degree,Percent individuals age 25 or over with less than high school degree
+P100_PFS,Percent of individuals < 100% Federal Poverty Line (percentile),Percent of individuals < 100% Federal Poverty Line (percentile)
+P200_I_PFS,"Percent of individuals below 200% Federal Poverty Line, imputed and adjusted (percentile)",Adjusted percent of individuals below 200% Federal Poverty Line (percentile)
+AJDLI_ET,Meets the less stringent low income criterion for the adjacency index?,
+LPF_PFS,Percent pre-1960s housing (lead paint indicator) (percentile),Percent pre-1960s housing (lead paint indicator) (percentile)
+KP_PFS,Share of homes with no kitchen or indoor plumbing (percent) (percentile),Share of homes with no kitchen or indoor plumbing (percentile)
+NPL_PFS,Proximity to NPL sites (percentile),Proximity to NPL (Superfund) sites (percentile)
+RMP_PFS,Proximity to Risk Management Plan (RMP) facilities (percentile),Proximity to Risk Management Plan (RMP) facilities (percentile)
+TSDF_PFS,Proximity to hazardous waste sites (percentile),Proximity to hazardous waste sites (percentile)
+TPF,Total population,Total population
+TF_PFS,Traffic proximity and volume (percentile),Traffic proximity and volume (percentile)
+UF_PFS,Unemployment (percent) (percentile),Unemployment (percent) (percentile)
+WF_PFS,Wastewater discharge (percentile),Wastewater discharge (percentile)
+UST_PFS,Leaky underground storage tanks (percentile),Leaky underground storage tanks (percentile)
+N_WTR,Water Factor (Definition N),
+N_WKFC,Workforce Factor (Definition N),
+N_CLT,Climate Factor (Definition N),
+N_ENY,Energy Factor (Definition N),
+N_TRN,Transportation Factor (Definition N),
+N_HSG,Housing Factor (Definition N),
+N_PLN,Pollution Factor (Definition N),
+N_HLTH,Health Factor (Definition N),
+SN_C,"Definition N community, including adjacency index tracts",Identified as disadvantaged
+SN_T,Identified as disadvantaged due to tribal overlap,Identified as disadvantaged due to tribal overlap
+DLI,Greater than or equal to the 90th percentile for diabetes and is low income?,Greater than or equal to the 90th percentile for diabetes and is low income?
+ALI,Greater than or equal to the 90th percentile for asthma and is low income?,Greater than or equal to the 90th percentile for asthma and is low income?
+PLHSE,Greater than or equal to the 90th percentile for households at or below 100% federal poverty level and has low HS attainment?,Greater than or equal to the 90th percentile for households at or below 100% federal poverty level and has low HS attainment?
+LMILHSE,Greater than or equal to the 90th percentile for low median household income as a percent of area median income and has low HS attainment?,Greater than or equal to the 90th percentile for low median household income as a percent of area median income and has low HS attainment?
+ULHSE,Greater than or equal to the 90th percentile for unemployment and has low HS attainment?,Greater than or equal to the 90th percentile for unemployment and has low HS attainment?
+EPL_ET,Greater than or equal to the 90th percentile for expected population loss,
+EAL_ET,Greater than or equal to the 90th percentile for expected agricultural loss,
+EBL_ET,Greater than or equal to the 90th percentile for expected building loss,
+EB_ET,Greater than or equal to the 90th percentile for energy burden,
+PM25_ET,Greater than or equal to the 90th percentile for pm2.5 exposure,
+DS_ET,Greater than or equal to the 90th percentile for diesel particulate matter,
+TP_ET,Greater than or equal to the 90th percentile for traffic proximity,
+LPP_ET,Greater than or equal to the 90th percentile for lead paint and the median house value is less than 90th percentile,
+HRS_ET,Tract-level redlining score meets or exceeds 3.25,Tract experienced historic underinvestment
+KP_ET,Greater than or equal to the 90th percentile for share of homes without indoor plumbing or a kitchen,
+HB_ET,Greater than or equal to the 90th percentile for housing burden,
+RMP_ET,Greater than or equal to the 90th percentile for RMP proximity,
+NPL_ET,Greater than or equal to the 90th percentile for NPL (superfund sites) proximity,
+TSDF_ET,Greater than or equal to the 90th percentile for proximity to hazardous waste sites,
+WD_ET,Greater than or equal to the 90th percentile for wastewater discharge,
+UST_ET,Greater than or equal to the 90th percentile for leaky underwater storage tanks,
+DB_ET,Greater than or equal to the 90th percentile for diabetes,
+A_ET,Greater than or equal to the 90th percentile for asthma,
+HD_ET,Greater than or equal to the 90th percentile for heart disease,
+LLE_ET,Greater than or equal to the 90th percentile for low life expectancy,
+UN_ET,Greater than or equal to the 90th percentile for unemployment,
+LISO_ET,Greater than or equal to the 90th percentile for households in linguistic isolation,
+POV_ET,Greater than or equal to the 90th percentile for households at or below 100% federal poverty level,
+LMI_ET,Greater than or equal to the 90th percentile for low median household income as a percent of area median income,
+IA_LMI_ET,Low median household income as a percent of territory median income in 2009 exceeds 90th percentile,
+IA_UN_ET,Unemployment (percent) in 2009 exceeds 90th percentile,
+IA_POV_ET,Percentage households below 100% of federal poverty line in 2009 exceeds 90th percentile,
+TC,Total threshold criteria exceeded,Total threshold criteria exceeded
+CC,Total categories exceeded,Total categories exceeded
+IAULHSE,Greater than or equal to the 90th percentile for unemployment and has low HS education in 2009 (island areas)?,Greater than or equal to the 90th percentile for unemployment and has low HS education in 2009 (island areas)?
+IAPLHSE,Greater than or equal to the 90th percentile for households at or below 100% federal poverty level and has low HS education in 2009 (island areas)?,Greater than or equal to the 90th percentile for households at or below 100% federal poverty level and has low HS education in 2009 (island areas)?
+IALMILHSE,Greater than or equal to the 90th percentile for low median household income as a percent of area median income and has low HS education in 2009 (island areas)?,Greater than or equal to the 90th percentile for low median household income as a percent of area median income and has low HS education in 2009 (island areas)?
+IALMIL_76,Low median household income as a percent of territory median income in 2009 (percentile),
+IAPLHS_77,Percentage households below 100% of federal poverty line in 2009 for island areas (percentile),
+IAULHS_78,Unemployment (percent) in 2009 for island areas (percentile),
+LHE,Low high school education,
+IALHE,Low high school education in 2009 (island areas),
+IAHSEF,Percent individuals age 25 or over with less than high school degree in 2009,
+N_CLT_EOMI,At least one climate threshold exceeded,
+N_ENY_EOMI,At least one energy threshold exceeded,
+N_TRN_EOMI,At least one traffic threshold exceeded,
+N_HSG_EOMI,At least one housing threshold exceeded,
+N_PLN_EOMI,At least one pollution threshold exceeded,
+N_WTR_EOMI,At least one water threshold exceeded,
+N_HLTH_88,At least one health threshold exceeded,
+N_WKFC_89,At least one workforce threshold exceeded,
+FPL200S,Is low income (imputed and adjusted)?,Is low income?
+N_WKFC_91,Both workforce socioeconomic indicators exceeded,
+TD_ET,Greater than or equal to the 90th percentile for DOT travel barriers,
+TD_PFS,DOT Travel Barriers Score (percentile),DOT Travel Barriers Score (percentile)
+FLD_PFS,Share of properties at risk of flood in 30 years (percentile),Share of properties at risk of flood in 30 years (percentile)
+WFR_PFS,Share of properties at risk of fire in 30 years (percentile),Share of properties at risk of fire in 30 years (percentile)
+FLD_ET,Greater than or equal to the 90th percentile for share of properties at risk of flood in 30 years,Greater than or equal to the 90th percentile for share of properties at risk of flood in 30 years
+WFR_ET,Greater than or equal to the 90th percentile for share of properties at risk of fire in 30 years,Greater than or equal to the 90th percentile for share of properties at risk of fire in 30 years
+ADJ_ET,Is the tract surrounded by disadvantaged communities?,
+IS_PFS,Share of the tract's land area that is covered by impervious surface or cropland as a percent (percentile),Share of the tract's land area that is covered by impervious surface or cropland as a percent (percentile)
+IS_ET,Greater than or equal to the 90th percentile for share of the tract's land area that is covered by impervious surface or cropland as a percent,Greater than or equal to the 90th percentile for share of the tract's land area that is covered by impervious surface or cropland as a percent
+AML_ET,"Is there at least one abandoned mine in this census tract, where missing data is treated as False?","Is there at least one abandoned mine in this census tract, where missing data is treated as False?"
+FUDS_RAW,Is there at least one Formerly Used Defense Site (FUDS) in the tract?,Is there at least one Formerly Used Defense Site (FUDS) in the tract?
+FUDS_ET,"Is there at least one Formerly Used Defense Site (FUDS) in the tract, where missing data is treated as False?","Is there at least one Formerly Used Defense Site (FUDS) in the tract, where missing data is treated as False?"
+IMP_FLG,Income data has been estimated based on neighbor income,Income data has been estimated based on geographic neighbor income
+DM_B,Percent Black or African American,Percent Black or African American alone
+DM_AI,Percent American Indian / Alaska Native,Percent American Indian / Alaska Native
+DM_A,Percent Asian,Percent Asian
+DM_HI,Percent Native Hawaiian or Pacific,Percent Native Hawaiian or Pacific
+DM_T,Percent two or more races,Percent two or more races
+DM_W,Percent White,Percent White
+DM_H,Percent Hispanic or Latino,Percent Hispanic or Latino
+DM_O,Percent other races,Percent other races
+AGE_10,Percent age under 10,Percent age under 10
+AGE_MIDDLE,Percent age 10 to 64,Percent age 10 to 64
+AGE_OLD,Percent age over 64,Percent age over 64
+TA_COU_116,Number of Tribal areas within Census tract for Alaska,Number of Tribal areas within Census tract for Alaska
+TA_COUNT_C,Number of Tribal areas within Census tract,
+TA_PERC,Percent of the Census tract that is within Tribal areas,Percent of the Census tract that is within Tribal areas
+TA_PERC_FE,"Percent of the Census tract that is within Tribal areas, for display",
+UI_EXP,UI_EXP,
+THRHLD,THRHLD,
+geometry,geometry,
