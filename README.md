@@ -32,7 +32,11 @@ If a census tract is at or above the 65th percentile for low income (as definedb
 
 This tool uses census tracts that represent about 4,000 people, which is the smallest unit of geography for which consistent data can be displayed on the tool. 
 
-This tool ranks each census tract using percentiles that show how much burden each tract experiences relative to all other tracts, for each criteria.
+This tool ranks each census tract using percentiles that show how much burden each tract experiences relative to all other tracts, for each criteria. 
+
+Step 1:Visit https://screeningtool.geoplatform.gov/
+
+
 
 
 ![Capture](https://github.com/sci4ga/ej_tools_and_data_exploration/assets/133727441/1918eb82-21b5-49ae-a2a2-613000b306e5)
