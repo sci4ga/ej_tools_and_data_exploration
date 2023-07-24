@@ -34,9 +34,9 @@ This tool uses census tracts that represent about 4,000 people, which is the sma
 
 This tool ranks each census tract using percentiles that show how much burden each tract experiences relative to all other tracts, for each criteria. 
 
-Step 1:Visit https://screeningtool.geoplatform.gov/
+Step 1: Visit https://screeningtool.geoplatform.gov/
 
-
+Step 2: Go to your location of interest by entering the address or Zip code. You can also zoom into your region. 
 
 
 
