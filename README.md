@@ -39,4 +39,14 @@ Step 1:Visit https://screeningtool.geoplatform.gov/
 
 
 
+
+
+
+
+
+
+
+
+
+
 ![Capture](https://github.com/sci4ga/ej_tools_and_data_exploration/assets/133727441/1918eb82-21b5-49ae-a2a2-613000b306e5)
