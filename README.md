@@ -34,3 +34,5 @@ This tool uses census tracts that represent about 4,000 people, which is the sma
 
 This tool ranks each census tract using percentiles that show how much burden each tract experiences relative to all other tracts, for each criteria.
 
+
+![Screenshot](Capture.png)
