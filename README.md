@@ -9,3 +9,28 @@ We currently have two datasets from CJST and EJScreen Info. EJScreen uses 2020 C
 The raw and processed data are stored in this  [GDrive](https://drive.google.com/drive/folders/1DW8KQmTR1pHRw7dMYcizVAe9a-mCl3zr) shared in this folder in zip and it should be uncompressed to use. Since, the data is large unable to use git's [Large File Storage](https://docs.github.com/en/repositories/working-with-files/managing-large-files/about-large-files-on-github) is over its data quota.
 
 ## Under Process.....
+
+
+**Things to know**:
+
+This tools identifies communities that are marginalized, underserved, and overburdened by pollution. These communities are located in census tracts that are at or above the thresholds in one or more of eight categories of criteria.
+
+A community is considered disadvantaged if they have one or more of the eight categories of burden and have low income
+ 
+There are eight categories of burden and 34 datasets that quantify the burden "thresholds":
+Climate Change
+Energy
+Health
+Housing
+Legacy Pollution
+Transportation
+Water & Wastewater
+Workforce Development
+
+Low Income:
+If a census tract is at or above the 65th percentile for low income (as definedby household at or below 200% of the Federal poverty level).
+
+This tool uses census tracts that represent about 4,000 people, which is the smallest unit of geography for which consistent data can be displayed on the tool. 
+
+This tool ranks each census tract using percentiles that show how much burden each tract experiences relative to all other tracts, for each criteria.
+
