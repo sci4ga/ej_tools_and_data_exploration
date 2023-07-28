@@ -50,3 +50,7 @@ Step 2: Go to your location of interest by entering the address or Zip code. You
 
 
 ![Capture](https://github.com/sci4ga/ej_tools_and_data_exploration/assets/133727441/1918eb82-21b5-49ae-a2a2-613000b306e5)
+
+
+
+Step 3: Evaluate census tracts and what qualifies communities as disadvantaged
