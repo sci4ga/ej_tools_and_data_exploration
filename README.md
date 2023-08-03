@@ -1,7 +1,9 @@
 
 # Data Visualization Project
 
-Description..
+Description:
+
+The Justice40 initiative aims to deliver 40 percent of the overall benefits of federal investments in climate and clean energy, including sustainable transportation, to disadvantaged communities. 
 
 
 # Data sets
